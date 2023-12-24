@@ -11,7 +11,7 @@ from tkinter import ttk
 from pathlib import Path
 
 import tkinterdnd2
-from tkinterdnd2 import DND_FILES, TkinterDnD
+from tkinterdnd2 import DND_FILES  # , TkinterDnD  Doesn't look like this is used
 import pandas as pd
 
 class Application(tkinterdnd2.Tk):  # inherits drag n drop functionality
