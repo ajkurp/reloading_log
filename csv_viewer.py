@@ -2,8 +2,8 @@
 """ you are here:
 https://www.youtube.com/watch?v=Wq1MmAtp1oY&list=PLCQT7jmSF-LrwYppkB3Xdbe6QC81-ozmT&index=8
 time hack 0:00
-.. but resume here first to set up github ssh keys: https://www.youtube.com/watch?v=RGOj5yH7evk
-time / 20:32
+.. but resume here first for Git Branching: https://www.youtube.com/watch?v=RGOj5yH7evk
+time / 32:44
 """
 
 import tkinter as tk
