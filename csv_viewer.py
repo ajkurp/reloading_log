@@ -174,4 +174,3 @@ class SearchPage(tk.Frame):         # 'inherits' Frame functionality- means it I
 if __name__ == "__main__":
     root = Application()
     root.mainloop()
-
